@@ -51,8 +51,6 @@ Once the contract is deployed, you can interact with it by calling the mint or b
 ## Authors
 
 Rushan 
-[@metacraftersio](https://twitter.com/metacraftersio)
-
 
 ## License
 
